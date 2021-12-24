@@ -1,0 +1,4 @@
+baseURL = 'http://lenshood.github.io/gallery'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
